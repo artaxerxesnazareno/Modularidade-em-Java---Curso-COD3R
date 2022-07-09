@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da28416c-32f6-4d22-9828-f3475e9314ee" name="Changes" comment="movi as imagens para o pacote image">
+    <list default="true" id="da28416c-32f6-4d22-9828-f3475e9314ee" name="Changes" comment="conceito de transitive">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657393471437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="conceito de transitive">
+      <created>1657401567717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657401567718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +117,7 @@
     <MESSAGE value="começando o modulo" />
     <MESSAGE value="conceito de modularidade" />
     <MESSAGE value="movi as imagens para o pacote image" />
-    <option name="LAST_COMMIT_MESSAGE" value="movi as imagens para o pacote image" />
+    <MESSAGE value="conceito de transitive" />
+    <option name="LAST_COMMIT_MESSAGE" value="conceito de transitive" />
   </component>
 </project>
