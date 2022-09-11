@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da28416c-32f6-4d22-9828-f3475e9314ee" name="Changes" comment="conceito de transitive">
+    <list default="true" id="da28416c-32f6-4d22-9828-f3475e9314ee" name="Changes" comment="fim do  modulo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -53,7 +53,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/artaxerxes/IdeaProjects/Modularidade em Java - Curso COD3R",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,6 +78,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657391112000</updated>
+      <workItem from="1661851571300" duration="2184000" />
+      <workItem from="1662053406561" duration="25000" />
+      <workItem from="1662849540742" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="começando o modulo">
       <created>1657391240392</created>
@@ -99,8 +110,18 @@
       <option name="project" value="LOCAL" />
       <updated>1657401567718</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comentario exemplificado o uso do transitive">
+      <created>1657401799821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657401799821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -118,6 +139,12 @@
     <MESSAGE value="conceito de modularidade" />
     <MESSAGE value="movi as imagens para o pacote image" />
     <MESSAGE value="conceito de transitive" />
-    <option name="LAST_COMMIT_MESSAGE" value="conceito de transitive" />
+    <MESSAGE value="comentario exemplificado o uso do transitive" />
+    <MESSAGE value="fim do  modulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fim do  modulo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
